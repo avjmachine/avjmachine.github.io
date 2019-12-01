@@ -1,4 +1,4 @@
-# vjmechwiz.github.io
+# vijayalagappan.github.io
 My personal website
 
 ## Personal Website of Vijay Alagappan##
