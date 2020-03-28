@@ -1,11 +1,20 @@
 # Recognitions
-- award: Star Performer
+- award: Star Performer Award
   organization: Mercedes-Benz Research & Development India Pvt. Ltd.
   year: 2019
   summary: for contributions made in the predevelopment stage of next generation EV Platform by independently handling a loadcase responsibility from India
 
-- award: Above and Beyond Call of Duty
+- award: Above and Beyond Call of Duty Award
   organization: Mercedes-Benz Research & Development India Pvt. Ltd.
-  year: 2014, 2017
+  year: 2017
   summary: for contributions to EV concept development project
-           for having completed multiple German Language courses with the requirments for an in-house Language Champion
+  
+  - award: Above and Beyond Call of Duty Award
+  organization: Mercedes-Benz Research & Development India Pvt. Ltd.
+  year: 2014
+  summary: for taking up 3 intensive German Language courses in a row and passing all of them with the requirements for an in-house Language Champion
+
+- award: Mr.Prahaar
+  organization: Thiagarajar College of Engineering
+  year: 2009
+  summary: for winning an intra-college management skills tournament with multiple rounds on problem solving, creative thinking, public speaking, group discussions, project management, presentation, etc.
