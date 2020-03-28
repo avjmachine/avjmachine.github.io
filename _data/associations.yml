@@ -1,15 +1,20 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
+- organization: Dept. of Engineering Design, IIT Madras
+  role: PG Students Placement Representative
+  year: 2012 &mdash; 2013
+  url: https://placement.iitm.ac.in/index.php
+  summary: Represented the post graduate students in Dept. of Engineering Design at IIT Madras to help fellow students find jobs. Also, I helped visiting companies organize the placement tests and interviews.
+
+- organization: TCE Cultural Club
+  role: Student Secretary - Literary Club, Quiz Club, Business English Club
+  year: 2009 &mdash; 2010
+  url: https://www.tce.edu/dept/it/professional_societies
+  summary: During my senior years at TCE, I was a secretary for the the literary and quiz club and organized literary events and quizzes to spot, recognize and reward talent. As Student Coordinator for the Business English Club, I helped my fellow students prepare for the Cambridge Business English Certificate Examinations.
+
+- organization: NSS
   role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
-
-
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+  year: 2006 &mdash; 2009
+  url: https://www.tce.edu/student/nss
+  summary: During my junior and senior years at TCE, I was an NSS volunteer and participated in local field work, awareness programs, etc.
