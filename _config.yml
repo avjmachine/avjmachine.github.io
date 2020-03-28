@@ -1,6 +1,6 @@
 # Site settings
 title: "Vijay Alagappan"
-description: "An Engineer who loves to work with machines - from hard metal to soft code!"
+description: "An Engineer who loves to build stuff, make them work and solve problems! All to make the world a better place to live in!"
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "xxxxx, ITPL, Whitefield, Bangalore"
 resume_header_contact_info:     "xxxxx, ITPL, Whitefield, Bangalore • +91-xxxxxxxxxx • xxxxxxxxxxxxxxx@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>An aficionado of engineering, I love machines - from hard metal to soft code! While the idea of 'creating systems' inspires and energizes me, the act of setting them 'up and working' drives me and keeps me going. Yes, I get a kick out of designing and developing new products and systems! My formal education background is in the domain of mechanical engineering and my work experience is in the field of automotive structures. I create simulation models, analyse and evaluate a huge amount of simulation data. This is where I got acquainted with the field of data science. I have been taking up courses on coding with Python, machine learning and deep learning algorithms and data visualization and applying these concepts to automate the process of buidling simulation models and evaluating results to come up with lightweight and safe body-in-white designs. I also spend my free time learning a bit of electronics with hobby projects on robotics, computer vision and IoT. Armed with the knowledge and skill in these 3 domains - mechanical, software and electronics, I want to build stuff, make them work and solve problems to make the world a better place to live in!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
