@@ -13,8 +13,8 @@ resume_avatar:                  "true"
 resume_name:                    "Vijay Alagappan A."
 resume_title:                   "AI, CAE and Autonomous Systems Engineer"
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "x.xxxxx.xxxxxxxxx@gmail.com"
+# used for the contact button in _layouts/resume.html - changed from email to linkedin for security reasons
+resume_contact:           "https://www.linkedin.com/in/vijayalagappan/"  
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+91-xxxxxxxxxx"
