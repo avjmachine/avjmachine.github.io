@@ -2,12 +2,26 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Self-Driving Cars course projects
-- project: Modules on Perception, Path Planning, Control and System Integration
-  role: Student 
-  duration: 2019 &mdash; Present
-  # url: "#"
-  description: I did multiple projects in the various modules on perception, path planning, control and system integration such as lane finding, traffic sign recognition, behavioural cloning, Extended Kalman filters, Particle Filters, PID Control and Integration using ROS. I used Python and/or C++ for all the projects.
+- project: Programming a real self-driving car: Capstone Project
+  role: Student, Team Lead
+  duration: October 2019 &mdash; Present
+  url: "https://github.com/vjmechwiz/CarND-Capstone"
+  description: This was the final Capstone project involving modules on perception, planning and control plus integration using Robot Operating System. I was the Team Lead for this project and I used this opportunity to learn planning and execution of a self-driving car software project at a small scale. It was also the first time I collaborated with other engineers on GitHub.
   
+- project: EV Architecture - New concept development
+  role: Senior CAE Analyst at Mercedes-Benz R&D India
+  duration: June 2018 &mdash; April 2019
+  # url: "#"
+  description: I was responsible for the evaluation of a critical crash load-case in the pre-development phase of a new electric vehicle architecture. I collaborated with design engineers and product managers in parent headquarters for the creation of a new EV (electric vehicle) Architecture. The simulations by my team helped to answer vital questions for shaping this new EV Architecture.
+  
+
+- project: PoC for EV Battery under-side impact sensing using Raspberry Pi
+  role: Senior CAE Analyst at Mercedes-Benz R&D India
+  duration: April 2018 &mdash; May 2018
+  # url: "#"
+  description: Along with a teammate, I developed a proof of concept for detecting and identifying location and intensity of impact of road debris on the underside of EV battery. We used adxl345 accelerometers in i2c communication mode on a Raspberry Pi for this proof of concept.
+  
+
 # Web-based German word learning game 
 - project: Web app to learn German words
   role: Developer
