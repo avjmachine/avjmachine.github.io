@@ -1,24 +1,18 @@
 # Skills
-# AI
-- skill: Artificial Intelligence
-  description: None
+# Artificial Intelligence
+- skill: Artificial Intelligence, Machine Learning, Deep Learning.
+  description: 3 years of experience in applying machine learning algorithms for simulation data analysis and assistance in building simulation models and evaluating results. Comfortable using scikit learn tensorflow, keras,
   
-# Data Science
-- skill: Data Science
-  description: None
+# Simulation Data Science
+- skill: Simulation Data Science
+  description: 7 years of experience in working with huge amount of simulation data - generating, querying, analysing and visualizing them using Python libraries such as pandas, matplotlib
+
+# Product Development
+- skill: Product Development
+  description: 9 years of experience in automotive product development as a student researcher in tyre industry and crash simulation engineer in OEM. Developed friction testing rig and a parameter identification software for tyre design. Collaborated with vehicle designers and product managers as one of the lead engineers for crash simulations on concepts for next generation EV Architecture. 
 
 # Scientific Computing
 - skill: Scientific Computing
-  description: None
-
-# NLP
-- skill: Natural Language Processing
-  description: None
-
-# Analytical Reasoning
-- skill: Analytical Reasoning
-  description: None
-
-#Adaptability
-- skill: Adaptability
-  description: None
+  description: 10 years of experience in automotive structural simulations as a student researcher and industry professional using tools such as LSDYNA, Abaqus, ANSA and Animator. 
+  
+ 
