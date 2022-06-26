@@ -1,4 +1,4 @@
-# vjmechwiz.github.io
+# avjmachine.github.io
 My personal website
 
 ## Personal Website of Vijay Alagappan##
